@@ -1,3 +1,4 @@
+import 'package:default_project_n6/sms_auto_fill/sms_auth_page.dart';
 import 'package:default_project_n6/streams/working_with_streams.dart';
 import 'package:flutter/material.dart';
 
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: WorkingWithStreams(),
+      home: CodeAutoFillTestPage(),
     );
   }
 }
