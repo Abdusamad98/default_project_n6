@@ -17,7 +17,7 @@ class _CodeAutoFillTestPageState extends State<CodeAutoFillTestPage> with CodeAu
     });
   }
   // code  Bu test sms 123456 C3V4NnEVb93
-  //Ваш код подтверждения 231559 C3V4NnEVb93
+  // Ваш код подтверждения 231559 C3V4NnEVb93
 
   @override
   void initState() {
